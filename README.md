@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="image.png" width="31%" />
+  <img src="image-1.png" width="31%" />
+  <img src="image-2.png" width="31%" />
+</p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 📝 Note App Flutter
 
 Aplikasi Note App sederhana yang dibuat menggunakan Flutter dan database lokal SQLite.
