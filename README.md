@@ -132,11 +132,3 @@ Tombol save & delete
 ☁️ Cloud sync
 🔐 Login authentication
 🏷️ Category note
-
-<p align="center">
-  <img src="image.png" width="31%" />
-  <img src="image-1.png" width="31%" />
-  <img src="image-2.png" width="31%" />
-</p>
-
----
